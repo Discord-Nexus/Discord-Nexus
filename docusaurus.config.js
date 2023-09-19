@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Guide Guidance',
-  tagline: 'Discord Nexus well known as for Guide Guidance docs where is the only one place for your needs of discord guidence and resources. This is an open source project and only motive to support community owners, manager or even developers around the platform so that we can come connect with everyone and share our experiences and knowledge to the new users and beginners, even with the people who are willing to know more about management and finding best resources for their dream community.',
+  tagline: 'Discord Nexus: Your one-stop guide for all things Discord. Open-source project supporting community owners, managers, and developers. Connect, share experiences, and find valuable resources for your dream community.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
