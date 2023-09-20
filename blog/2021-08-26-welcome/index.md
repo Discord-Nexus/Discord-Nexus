@@ -1,6 +1,6 @@
 ---
 slug: welcome To Discord Nexus Blog Articles.
-title: Welcome to Discord Nexus Blog!
+title: Welcome to Discord Nexus Blog Articles.
 authors: [JumanJi]
 tags: [Discord Nexus Update, Community]
 ---
