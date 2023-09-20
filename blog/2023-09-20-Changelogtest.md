@@ -1,6 +1,6 @@
 ---
 title: The Discord Nexus Website
-description: Major updates, minor changes and  the announcement of our brand new website.
+description: Excited to learn about the latest developments brewing behind the scenes? Stay tuned for updates on what's next and the exciting new features we have in store for you!
 authors:
   - name: JumanJi
     title: Owner & Maintainer of DN
@@ -10,7 +10,7 @@ tags: [changelog, Discord]
 image: https://cdn.discordapp.com/attachments/879344819074396173/1154058275394949282/accent-colour.jpeg
 ---
 
-Know more about whats new we are cooking behind the channels! what next? what we are going to bring new ?
+Excited to learn about the latest developments brewing behind the scenes? Stay tuned for updates on what's next and the exciting new updates we have in store for you!
 
 <!-- truncate -->
 
