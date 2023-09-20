@@ -1,7 +1,7 @@
 ---
 slug: welcome
 title: Welcome
-authors: [jumanji, yangshun]
+authors: [hjumanji, yangshun]
 tags: [facebook, hello, docusaurus]
 ---
 
