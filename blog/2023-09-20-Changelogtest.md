@@ -22,15 +22,15 @@ Hey there! Thanks for visiting us. We're currently in the building stage and hav
 It's a community-driven project by experienced independent developers, aiming to provide easy access to Discord's largest database without any premium or paywall restrictions. We're here to help you create your dream community on Discord.
 
 # What this project will offer?
-We have a some of the great plans in mind to offer which includes:
+We've got exciting plans in store for you, including:
+- Comprehensive Discord guides
+- Official Discord resources
+- Unofficial Discord resources
+- Community-driven Discord resources
+- A range of Discord tools for designing, moderation, AI, and development
+- Free tools for your convenience
+- The best bots available
+- Informative blogs with official guides
+- And a vast database to fulfill all your needs
 
-- Discord Guide
-- Discord official resources
-- Discord unofficial resources
-- Discord community resources
-- Discord tools: including (designing, moderation, ai, development)
-- Free tools
-- Best bots
-- Official Guide Informative Blogs
-
-Yet a big database for all your needs and the fact this can be all possible by your support and summits # by the community for the community
+With your support and community involvement, we can make all of this possible! #CommunityPower
