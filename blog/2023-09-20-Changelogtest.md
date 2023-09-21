@@ -7,7 +7,7 @@ authors:
     url: https://github.com/heyjumanji
     image_url: https://cdn.discordapp.com/avatars/878264909014663218/e7d909a2ea0dffd41ddf18665c894fee.png
 tags: [changelog, Discord]
-image: https://cdn.discordapp.com/attachments/879344819074396173/1154058275394949282/accent-colour.jpeg
+image: https://cdn.discordapp.com/splashes/1089540433010491392/93f2f1b4202d9937560eca7092950937.png?size=4096
 ---
 
 Excited to learn about the latest developments brewing behind the scenes? Stay tuned for updates on what's next and the exciting new updates we have in store for you!
