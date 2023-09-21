@@ -6,10 +6,6 @@ authors:
     title: Owner & Maintainer of DN
     url: https://github.com/heyjumanji
     image_url: https://cdn.discordapp.com/avatars/878264909014663218/e7d909a2ea0dffd41ddf18665c894fee.png
-  - name: Robskan
-    title: Co-creator & Maintainer of DN
-    url: https://github.com/Robskan5300
-    image_url: https://cdn.discordapp.com/avatars/791957021728702464/8137806808dc68c8dc258efd771eb690.png
 tags: [changelog, Discord]
 image: https://cdn.discordapp.com/attachments/879344819074396173/1154058275394949282/accent-colour.jpeg
 ---
