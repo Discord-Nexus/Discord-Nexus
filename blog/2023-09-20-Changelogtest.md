@@ -18,4 +18,19 @@ Excited to learn about the latest developments brewing behind the scenes? Stay t
 Hey there! Thanks for visiting us. We're currently in the building stage and have a lot of ongoing work. I'm JumanJi, a community manager and developer with over 3 years of experience. One thing I've noticed is the lack of a comprehensive Discord guide and centralized resources. That's why we're working on the Discord Nexus project. It's been in the works for quite some time, but now, with the support of amazing developers and community moderators, we're bringing it to life. Special thanks to Robskan for their contribution to this project, making it possible to get our official logo commissioned by Nick. We also want to express our gratitude to the developers and designers who have contributed their skills and ideas to this project. It's important to note that we are a group of experienced developers and community managers working on this project without any profit motive. If you value our work and would like to support us, please consider contributing to the project and joining our Discord community. Together, we can discuss and improve the project.
 
 # What is Discord Nexus all about?
-It's an community helping project made by some of the experience and independent developer with no profit in the project. we want to make the project easy accessible and no premium or paywall stop you from getting unlimited destination of discord largest database for all you need for making your dream community om discord.
+
+It's a community-driven project by experienced independent developers, aiming to provide easy access to Discord's largest database without any premium or paywall restrictions. We're here to help you create your dream community on Discord.
+
+# What this project will offer?
+We have a some of the great plans in mind to offer which includes:
+
+- Discord Guide
+- Discord official resources
+- Discord unofficial resources
+- Discord community resources
+- Discord tools: including (designing, moderation, ai, development)
+- Free tools
+- Best bots
+- Official Guide Informative Blogs
+
+Yet a big database for all your needs and the fact this can be all possible by your support and summits # by the community for the community
