@@ -1,8 +1,6 @@
-
 import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
-import backgroundImage from './path/to/your/image.jpg';
 
 const FeatureList = [
   {
@@ -11,7 +9,7 @@ const FeatureList = [
     description: (
       <>
         We are willing to provide you the best guide from some
-        of the best and experience community owners & managers.
+        of the best and experience community owners & manager.
       </>
     ),
   },
@@ -37,7 +35,7 @@ const FeatureList = [
   },
 ];
 
-function Feature({ Svg, title, description }) {
+function Feature({Svg, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
@@ -53,7 +51,7 @@ function Feature({ Svg, title, description }) {
 
 export default function HomepageFeatures() {
   return (
-    <section className={styles.features} style={{ backgroundImage: `url(${backgroundImage})` }}>
+    <section className={styles.features}>
       <div className="container">
         <div className="row">
           {FeatureList.map((props, idx) => (
@@ -63,4 +61,4 @@ export default function HomepageFeatures() {
       </div>
     </section>
   );
-}
+      }
