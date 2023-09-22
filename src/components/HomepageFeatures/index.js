@@ -51,7 +51,8 @@ function Feature({Svg, title, description}) {
 
 export default function HomepageFeatures() {
   return (
-    <section className={styles.features}>
+    <section className={styles.features}
+       style={{ backgroundImage: `url(${https://cdn.discordapp.com/splashes/1089540433010491392/93f2f1b4202d9937560eca7092950937.png?size=4096})` }}>
       <div className="container">
         <div className="row">
           {FeatureList.map((props, idx) => (
