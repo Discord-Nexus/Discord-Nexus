@@ -39,7 +39,7 @@ function Feature({Svg, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <Svg className={styles.featureSvg} role="https://cdn.discordapp.com/splashes/1089540433010491392/93f2f1b4202d9937560eca7092950937.png?size=4096" />
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
