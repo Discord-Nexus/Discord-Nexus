@@ -39,7 +39,7 @@ function Feature({Svg, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="https://cdn.discordapp.com/splashes/1089540433010491392/93f2f1b4202d9937560eca7092950937.png?size=4096" />
+        <Svg className={styles.featureSvg} role="img" />
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
@@ -51,9 +51,7 @@ function Feature({Svg, title, description}) {
 
 export default function HomepageFeatures() {
   return (
-    <section className={styles.features}
-       style={{ backgroundImage: `url(${https://cdn.discordapp.com/splashes/1089540433010491392/93f2f1b4202d9937560eca7092950937.png?size=4096})` }}>
-      <div className="container">
+    <section className={styles.features}>
         <div className="row">
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />
