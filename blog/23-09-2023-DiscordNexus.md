@@ -10,6 +10,8 @@ image: https://cdn.discordapp.com/attachments/879344819074396173/115506685188218
 tags: [Changelog, Discord Nexus]
 ---
 
+![](https://cdn.discordapp.com/attachments/879344819074396173/1155066851882188831/Discord_Nexus.png)
+
 Excited to learn about the latest developments brewing behind the scenes? Stay tuned for updates on what's next and the exciting new updates we have in store for you!
 
 <!-- truncate -->
