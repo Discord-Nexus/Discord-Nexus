@@ -7,7 +7,6 @@ authors:
     url: https://github.com/heyjumanji
     image_url: https://cdn.discordapp.com/avatars/878264909014663218/e7d909a2ea0dffd41ddf18665c894fee.png
 tags: [Changelog, Discord Nexus]
-image: https://cdn.discordapp.com/attachments/879344819074396173/1155051508140883988/eau_de_parfum_2.png
 ---
 
 Excited to learn about the latest developments brewing behind the scenes? Stay tuned for updates on what's next and the exciting new updates we have in store for you!
