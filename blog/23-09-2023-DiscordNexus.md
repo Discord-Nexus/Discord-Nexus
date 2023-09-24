@@ -6,7 +6,7 @@ authors:
     title: Owner & Maintainer of DN
     url: https://github.com/heyjumanji
     image_url: https://cdn.discordapp.com/avatars/878264909014663218/e7d909a2ea0dffd41ddf18665c894fee.png
-image: https://cdn.discordapp.com/attachments/879344819074396173/1155066851882188831/Discord_Nexus.png
+image: https://cdn.discordapp.com/attachments/879344819074396173/1155051508140883988/eau_de_parfum_2.png
 tags: [Changelog, Discord Nexus]
 ---
 
