@@ -112,8 +112,8 @@ const config = {
                 to: '/blog',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/Discord-Nexus',
+                label: 'Team',
+                href: '/Team',
               },
             ],
           },
