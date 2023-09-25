@@ -77,11 +77,6 @@ const config = {
             label: 'Guide Book',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/Discord-Nexus',
-            label: 'GitHub',
-            position: 'right',
-          },
         ],
       },
       footer: {
@@ -110,7 +105,7 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Usefull Reads',
             items: [
               {
                 label: 'Blog',
