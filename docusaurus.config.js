@@ -111,10 +111,6 @@ const config = {
                 label: 'Blog',
                 to: '/blog',
               },
-              {
-                label: 'Team',
-                href: '/Team',
-              },
             ],
           },
         ],
