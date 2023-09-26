@@ -35,12 +35,6 @@ We've got exciting plans in store for you, including:
 - Informative blogs with official guides
 - And a vast database to fulfill all your needs
 
-### Join The Discussion
-Join JumanJi’s Hub for early development discussion and suggest more on our improvement.
-
-[![Join our Discord server!](https://invidget.switchblade.xyz/dumpcJW7d5)](https://discord.gg/dumpcJW7d5)
-
-
 With your support and community involvement, we can make all of this possible! #CommunityPower
 
 ___
