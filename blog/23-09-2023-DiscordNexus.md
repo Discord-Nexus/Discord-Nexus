@@ -1,5 +1,5 @@
 ---
-title: The Discord Nexus Website
+title: The Discord Nexus Website!
 description: Excited to learn about the latest developments brewing behind the scenes? Stay tuned for updates on what's next and the exciting new features we have in store for you!
 authors:
   - name: JumanJi
