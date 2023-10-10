@@ -5,3 +5,15 @@ Discord Nexus well known as for **Guide Guidance** docs where is the only one pl
 ### Links:
 - [Website](https://discordnexus.vercel.app/)
 - [Community on Discord](https://dsc.gg/jumanjihub)
+
+### Project Future Development List
+
+* [ ] Home Page
+* [x] Introduction Blog
+* [ ] Community Blog Section
+* [ ] Community Guide Section
+* [ ] Community Resources Section
+* [ ] Community Freebie tools & open source
+* [ ] Ai Guidance
+* [ ] Development Team & Sponsor Credit Page
+* [ ] Terms & Conditions of the project
