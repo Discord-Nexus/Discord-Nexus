@@ -1,11 +1,44 @@
 .features {
   display: flex;
+  flex-direction: column;
+
+  align-items: stretch;
+  padding: 0 2rem;
+
+  max-width: 72rem;
+  margin: auto auto 4rem;
+
+  gap: 6rem;
+}
+
+.feature {
+  display: flex;
+  flex-direction: column;
   align-items: center;
-  padding: 2rem 0;
-  width: 100%;
+
+  gap: 4rem;
+}
+
+.featureText {
+  max-width: 32rem;
+  flex: 1;
+}
+
+@media screen and (min-width: 768px) {
+  .feature {
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .feature.reverse {
+    flex-direction: row-reverse;
+  }
 }
 
 .featureSvg {
-  height: 200px;
-  width: 200px;
+  flex: 1;
+
+  max-height: 400px;
+  max-width: 400px;
 }
