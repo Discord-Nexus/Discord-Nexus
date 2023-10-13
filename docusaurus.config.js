@@ -103,7 +103,7 @@ const config = {
             ],
           },
           {
-            title: 'Usefull Reads',
+            title: 'Useful Reads',
             items: [
               {
                 label: 'Blog',
