@@ -35,13 +35,11 @@ const FeatureList = [
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({Svg, title, description, odd}) {
   return (
-    <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
-      </div>
-      <div className="text--center padding-horiz--md">
+    <div className={clsx(styles.feature, odd && styles.reverse)}>
+      <Svg className={styles.featureSvg} role="img"/>
+      <div className={styles.featureText}>
         <h3>{title}</h3>
         <p>{description}</p>
       </div>
@@ -51,14 +49,10 @@ function Feature({Svg, title, description}) {
 
 export default function HomepageFeatures() {
   return (
-    <section className={styles.features}>
-      <div className="container">
-        <div className="row">
-          {FeatureList.map((props, idx) => (
-            <Feature key={idx} {...props} />
-          ))}
-        </div>
-      </div>
+    <section className={clsx(styles.features)}>
+      {FeatureList.map((props, idx) => (
+        <Feature key={idx} {...props} odd={idx % 2 === 1}/>
+      ))}
     </section>
   );
 }
