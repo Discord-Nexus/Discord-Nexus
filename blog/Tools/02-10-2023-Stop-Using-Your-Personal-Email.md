@@ -6,11 +6,11 @@ authors:
     title: Owner & Maintainer of DN
     url: https://github.com/heyjumanji
     image_url: https://cdn.discordapp.com/avatars/878264909014663218/a7359151f0a652f9b8888d4b30093bc4.png
-image: https://cdn.discordapp.com/attachments/1160295873159376927/1169549356655968266/Discord_Nexus.png
+image: https://cdn.discordapp.com/attachments/1160295873159376927/1169706381838913576/Discord_Nexus_1_1.png
 tags: [Discord Safety, Discord Scams, Simple Login]
 ---
 
-![](https://cdn.discordapp.com/attachments/1160295873159376927/1169549356655968266/Discord_Nexus.png)
+![](https://cdn.discordapp.com/attachments/1160295873159376927/1169706381838913576/Discord_Nexus_1_1.png)
 
 Learn & level up your privacy on discord with simple steps to stay ahead of scams, hacking, and data loss using simple login email aliase!
 
