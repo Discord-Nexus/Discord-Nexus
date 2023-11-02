@@ -12,7 +12,7 @@ tags: [Discord Safety, Discord Scams, Simple Login]
 
 ![](https://cdn.discordapp.com/attachments/1160295873159376927/1169549356655968266/Discord_Nexus.png)
 
-Privacy guide for Discord users: Protect yourself from data loss, scams, and avoid using personal emails. Skip if you don't mind potential data leaks and using personal email everywhere.
+Learn & level up your privacy on discord with simple steps to stay ahead of scams, hacking, and data loss using simple login email aliase!
 
 <!-- truncate -->
 
