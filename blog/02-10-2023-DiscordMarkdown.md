@@ -1,16 +1,20 @@
---
-title: Discord Mark Down!
-description: Lets learn about discord mark downs
+---
+title: Discord Markdowns
+description: Excited to learn about the latest developments brewing behind the scenes? Stay tuned for updates on what's next and the exciting new features we have in store for you!
 authors:
   - name: JumanJi
     title: Owner & Maintainer of DN
     url: https://github.com/heyjumanji
     image_url: https://cdn.discordapp.com/avatars/878264909014663218/a7359151f0a652f9b8888d4b30093bc4.png
 image: https://cdn.discordapp.com/attachments/1160295873159376927/1169549356655968266/Discord_Nexus.png
-tags: [Discord Features]
+tags: [Changelog, Discord Nexus]
 ---
 
 ![](https://cdn.discordapp.com/attachments/1160295873159376927/1169549356655968266/Discord_Nexus.png)
+
+Excited to learn about the latest developments brewing behind the scenes? Stay tuned for updates on what's next and the exciting new updates we have in store for you!
+
+<!-- truncate -->
 
 # Discord Markdown: How To Use It and Why You Should
 
