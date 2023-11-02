@@ -6,11 +6,11 @@ authors:
     title: Owner & Maintainer of DN
     url: https://github.com/heyjumanji
     image_url: https://cdn.discordapp.com/avatars/878264909014663218/a7359151f0a652f9b8888d4b30093bc4.png
-image: https://cdn.discordapp.com/attachments/1160295873159376927/1169549356655968266/Discord_Nexus.png?ex=6555ceb7&is=654359b7&hm=a4a3f0daa5c28697614437fd3d66fd197bbf73099d43eff39e01421435c1a5ad&.png
+image: https://cdn.discordapp.com/attachments/1160295873159376927/1169549356655968266/Discord_Nexus.png
 tags: [Changelog, Discord Nexus]
 ---
 
-![](https://cdn.discordapp.com/attachments/879344819074396173/1155066851882188831/Discord_Nexus.png)
+![](https://cdn.discordapp.com/attachments/1160295873159376927/1169549356655968266/Discord_Nexus.png)
 
 Excited to learn about the latest developments brewing behind the scenes? Stay tuned for updates on what's next and the exciting new updates we have in store for you!
 
