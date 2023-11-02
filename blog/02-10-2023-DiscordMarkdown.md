@@ -7,7 +7,7 @@ authors:
     url: https://github.com/heyjumanji
     image_url: https://cdn.discordapp.com/avatars/878264909014663218/a7359151f0a652f9b8888d4b30093bc4.png
 image: https://cdn.discordapp.com/attachments/1160295873159376927/1169549356655968266/Discord_Nexus.png
-tags: [Changelog, Discord Nexus]
+tags: [Discord Features]
 ---
 
 ![](https://cdn.discordapp.com/attachments/1160295873159376927/1169549356655968266/Discord_Nexus.png)
