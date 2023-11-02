@@ -1,6 +1,6 @@
 ---
 title: "Shield Your Privacy: Safeguarding Discord with Email Aliases"
-description: Learn how to protect your privacy on discord with simple detailed steps to move one step ahead from scams, hacking or even data loss from bad guys!
+description: Learn & level up your privacy on discord with simple steps to stay ahead of scams, hacking, and data loss using simple login email aliase!
 authors:
   - name: JumanJi
     title: Owner & Maintainer of DN
