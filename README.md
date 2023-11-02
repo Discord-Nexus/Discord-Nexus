@@ -8,7 +8,7 @@ Discord Nexus well known as for **Guide Guidance** docs where is the only one pl
 
 ### Project Future Development List
 
-* [ ] Home Page
+* [x] Home Page
 * [x] Introduction Blog
 * [ ] Community Blog Section
 * [ ] Community Guide Section
