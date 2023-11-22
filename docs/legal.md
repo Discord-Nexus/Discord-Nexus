@@ -39,4 +39,4 @@ privacy policies before using any external tools.
 **10. Governing Law:**
 >This Disclaimer is governed by and construed in accordance with the laws of [Your Jurisdiction], and any disputes relating to this Disclaimer will be subject to the exclusive jurisdiction of the courts in The New Jersey Superior Court.
 
-# By accessing and using the resources on this page, the User acknowledges that they have read, understood, and agreed to this legal disclaimer.
+## By accessing and using the resources on this page, the User acknowledges that they have read, understood, and agreed to this legal disclaimer.
