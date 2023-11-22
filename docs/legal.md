@@ -15,14 +15,14 @@ description: Navigate terms, use tools cautiously, prioritize privacy, and enjoy
 >The User acknowledges that they are solely responsible for their actions and engagements with the provided resources. The Provider assumes no liability for any consequences resulting from the use of listed tools, applications, or information.
 
 **3. Terms of Use:**
->The User agrees to abide by Discord's Terms of Service (https://discord.com/terms) and Community Guidelines (https://discord.com/guidelines), independently of this Guide. The Provider does not have control over Discord's policies and cannot be held responsible for any violations.
+>The User agrees to abide by [Discord's Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines), independently of this Guide. The Provider does not have control over Discord's policies and cannot be held responsible for any violations.
 
 **4. Third-Party Tools and Applications:**
 >The User understands that some resources listed on this page may be third-party tools or applications. Users are strongly advised to exercise caution, review terms of use, and understand 
 privacy policies before using any external tools.
 
 **5. Privacy and Data Security:**
->Users must prioritize their privacy and the privacy of others. The User is encouraged to refer to Discord's Privacy Policy (https://discord.com/privacy) for information on how data is handled within the Discord platform.
+>Users must prioritize their privacy and the privacy of others. The User is encouraged to refer to [Discord's Privacy Policy](https://discord.com/privacy) for information on how data is handled within the Discord platform.
 
 **6. User Conduct:**
 >Respectful and responsible conduct is paramount. The User is expressly prohibited from engaging in any activities that violate Discord's guidelines or terms of service. Any such activities are the sole responsibility of the User.
