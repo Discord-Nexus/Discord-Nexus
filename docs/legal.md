@@ -4,7 +4,7 @@ sidebar_label: Legal
 sidebar_position: 1
 description: Navigate terms, use tools cautiously, prioritize privacy, and enjoy utilities tailored for users from beginners to power users on this page.
 ---
-# LEGAL DOCUMENT FOR DISCORD NEXUS RESOURCES**
+# **LEGAL DOCUMENT FOR DISCORD NEXUS RESOURCES**
 
 **This legal document is an agreement between the user and Discord Nexus governing the use of the Discord Guide Resources provided on this standalone page. By accessing and utilizing the resources on this page, the User acknowledges and agrees to the following terms:**
 
