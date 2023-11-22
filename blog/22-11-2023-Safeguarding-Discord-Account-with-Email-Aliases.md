@@ -30,4 +30,4 @@ Using Simple Login Aliases and Proton Mail service for discord makes a great lay
 
 # FAQ:
 ### Is using proton mail and simple login is safe for privacy and data?
-> ofcourse it is safe and it is made for protect your data and privacy by making your email encrypted and secure.
+> Of course it is safe and it is made for protect your data and privacy by making your email encrypted and secure.
