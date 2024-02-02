@@ -23,6 +23,9 @@ Email aliases serve as a multifaceted tool in the contemporary digital landscape
 ## Recommendation:
 You can use any other email aliases but we recomend to use [Simple Login](https://simplelogin.io/)! which is an open source yet own by a very reputed company Proton for their own service like providing encrypted email and other services to the users to protect their privacy.
 
+# Use ProtonMail!!
+Simply use proton mail for more security. By using the protonmail you can use recived or send mail from proton mail instead of getting update to your personal gmail or you can you gmail instead but i personally use proton mail with simple login to organise the annoying and other mail on proton and gmail for personal mail and notification hence important mails.
+
 ### Why Aliases instead of Gmail?
 So before we start why we should use or concern about using Simple Login aliases instead of our regular email or gmail?
 
