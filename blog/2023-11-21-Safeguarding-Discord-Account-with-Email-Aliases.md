@@ -30,9 +30,11 @@ Enhance your email security by utilizing ["ProtonMail"](htts://www.protonmail.co
 So before we start why we should use or concern about using Simple Login aliases instead of our regular email or gmail?
 
 Using Simple Login Aliases and Proton Mail service for discord makes a great layer of protection for your privacy and helps you to stay anonymous in the platform. So if you you alot of service like free bot hosting or you may gave ramdom permission to a random bot which requires to access to your email, in that case the owner of the application or site have a log of your email address which is pretty annoying and not secure to spread your personal email in public. Mostly untrusted services may leak or sell your email address for money and can get you alot of spam mails, unrecognised ads etc may be faced in that situation. In that cause if you use the same email or gmail for bank or other personal documents or platform hackers can easily make you fool leak ips and more. But using the proton mail and aliases its totally encrypted and anonymous that you can easily block them. And using this both services you will not get any tracking from any service.
+
 # Here's a Link to their official YouTube tutorials to setup and get started.
 
-<iframe width="100" height="315" src="https://www.youtube.com/embed/eUx--17MxfE?si=oovJTXqPejnzEPlQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100" height="100" src="https://www.youtube.com/embed/eUx--17MxfE?si=oovJTXqPejnzEPlQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 # FAQ:
 ### Is using proton mail and simple login is safe for privacy and data?
 > Of course it is safe and it is made for protect your data and privacy by making your email encrypted and secure.
@@ -41,3 +43,5 @@ Using Simple Login Aliases and Proton Mail service for discord makes a great lay
 > Imagine you are a big fan of mee6 and one day mee6 bot or database was compromised which leads in data leaks to any unknown third parties without anyone concerned and they will now use your data which you have provided to mee6 will sell them without your concern, which includes mostly your private gmail, in that case spammer will send countless spam mails and scam links which eventually loss of your time and personal data online.
 
 > By using your simple login mail will make sure to hide from tracker and your private email will be safe from bad people on discord.
+
+Please make sure to share!! if you like the article. ❤️
