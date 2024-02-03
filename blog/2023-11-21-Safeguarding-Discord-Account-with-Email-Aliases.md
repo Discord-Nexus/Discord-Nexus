@@ -33,7 +33,7 @@ Using Simple Login Aliases and Proton Mail service for discord makes a great lay
 
 # Here's a Link to their official YouTube tutorials to setup and get started.
 
-<iframe width="100" height="100" src="https://www.youtube.com/embed/eUx--17MxfE?si=oovJTXqPejnzEPlQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100" height="444" src="https://www.youtube.com/embed/eUx--17MxfE?si=oovJTXqPejnzEPlQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # FAQ:
 ### Is using proton mail and simple login is safe for privacy and data?
