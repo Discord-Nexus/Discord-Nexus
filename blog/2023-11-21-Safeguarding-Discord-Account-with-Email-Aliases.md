@@ -31,9 +31,10 @@ So before we start why we should use or concern about using Simple Login aliases
 
 Using Simple Login Aliases and Proton Mail service for discord makes a great layer of protection for your privacy and helps you to stay anonymous in the platform. So if you you alot of service like free bot hosting or you may gave ramdom permission to a random bot which requires to access to your email, in that case the owner of the application or site have a log of your email address which is pretty annoying and not secure to spread your personal email in public. Mostly untrusted services may leak or sell your email address for money and can get you alot of spam mails, unrecognised ads etc may be faced in that situation. In that cause if you use the same email or gmail for bank or other personal documents or platform hackers can easily make you fool leak ips and more. But using the proton mail and aliases its totally encrypted and anonymous that you can easily block them. And using this both services you will not get any tracking from any service.
 
-# Here's a Link to their official YouTube tutorials to setup and get started.
+```md # Here's a Link to their official YouTube tutorials to setup and get started.
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/eUx--17MxfE?si=oovJTXqPejnzEPlQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+```
 
 
 # FAQ:
