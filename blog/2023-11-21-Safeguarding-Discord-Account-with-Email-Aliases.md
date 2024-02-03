@@ -33,7 +33,7 @@ Using Simple Login Aliases and Proton Mail service for discord makes a great lay
 
 # Here's a Link to their official YouTube tutorials to setup and get started.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eUx--17MxfE?si=oovJTXqPejnzEPlQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/eUx--17MxfE?si=oovJTXqPejnzEPlQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 # FAQ:
