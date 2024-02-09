@@ -5,7 +5,7 @@ authors:
   - name: JumanJi
     title: Owner & Maintainer of DN
     url: https://github.com/heyjumanji
-    image_url: https://freeimage.host/i/J1l0xun
+    image_url: https://iili.io/J1l0xun.jpg
 image: https://cdn.discordapp.com/attachments/1160295873159376927/1169549356655968266/Discord_Nexus.png
 tags: [Changelog, Discord Nexus]
 ---
