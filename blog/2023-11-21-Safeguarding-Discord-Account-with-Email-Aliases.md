@@ -5,7 +5,7 @@ authors:
   - name: JumanJi
     title: Owner & Maintainer of DN
     url: https://github.com/heyjumanji
-    image_url: https://freeimage.host/i/J1l0xun
+    image_url: https://iili.io/J1l0xun.jpg
 image: https://cdn.discordapp.com/attachments/1160295873159376927/1169706381838913576/Discord_Nexus_1_1.png
 tags: [Discord Safety, Discord Scams, Simple Login]
 ---
