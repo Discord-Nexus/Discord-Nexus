@@ -45,4 +45,4 @@ Enhance your email security by utilizing ["ProtonMail"](htts://www.protonmail.co
 > By using your simple login mail will make sure to hide from tracker and your private email will be safe from bad people on discord.
 
 Please make sure to share!! if you like the article. ❤️
----
+___
