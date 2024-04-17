@@ -10,7 +10,7 @@ image: https://cdn.discordapp.com/attachments/1160295873159376927/11697063818389
 tags: [Discord Safety, Discord Scams, Simple Login]
 ---
 
-![](https://cdn.discordapp.com/attachments/1160295873159376927/1169706381838913576/Discord_Nexus_1_1.png)
+![banner](https://cdn.discordapp.com/attachments/1160295873159376927/1169706381838913576/Discord_Nexus_1_1.png)
 
 Learn & level up your privacy on discord with simple steps to stay ahead of scams, hacking, and data loss using simple login email aliase!
 
