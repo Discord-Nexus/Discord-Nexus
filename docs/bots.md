@@ -9,7 +9,8 @@ description: Best Bots available for your discord server.
 
 ## ⚒️ Moderation Bots / ⚙️ Utility Bots / 🤖 Fun Bots
 
-:::note Make sure you do not have too many bots in your server. As it just make your server called bot server and make less active.
+:::warning Before you add any bot make sure of the following:
+Make sure you do not have too many bots in your server. As it just make your server called bot server and make less active.
 :::
 
 ### Zeppelin 
