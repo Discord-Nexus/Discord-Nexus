@@ -1,7 +1,7 @@
 ---
 title: Bots
 sidebar_label: Bots
-sidebar_position: 2
+sidebar_position: 1
 description: Best Bots available for your discord server.
 ---
 
@@ -9,9 +9,10 @@ description: Best Bots available for your discord server.
 
 ## Moderation Bots / Utility Bots / Fun Bots
 
-::: warning Tips: Before you decide to add any one of the bots in the list.
+::: warning Before you do anything, make sure you do the following:
 
 Make sure you do not have too many bots in your server. As it just make your server called bot server and make less active.
+
 :::
 
 ### Zeppelin 
