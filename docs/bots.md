@@ -14,6 +14,7 @@ Make sure you do not have too many bots in your server. As it just make your ser
 ### Zeppelin 
 This is an opensource private and invite only bot for large servers.
 
+Made by : [!badge variant="secondary" text="test"]
 - [GitHub](https://github.com/Dragory/ZeppelinBot)
 - [Website](https://zeppelin.gg/)
 
